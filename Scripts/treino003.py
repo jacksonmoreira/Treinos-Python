@@ -20,4 +20,4 @@ if num2 < num1 and num2 < num3:
     print('O menor número é {}!'.format(num2))
 if num3 < num1 and num3 < num2:
     print('O menor número é {}!'.format(num3))
-print('--ENCERRANDO PROGRAMA--')
+print('--ENCERRANDO-PROGRAMA--')
