@@ -3,12 +3,12 @@ print('#' * 30)
 print('     SORTEADOR AUTOMÁTICO     ')
 print('#' * 30)
 print('=' * 45)
-print('''Digite o que ou quem
-participará do sorteio, se for
-digitar um número, escreva-o por extenso!''')
+print('Digite o que ou quem')
+print('participará do sorteio, se for')
+print('digitar um número, escreva-o por extenso!')
 print('-' * 20)
-print('''AVISO: Número máximo de integrantes
-do sorteio: 5!''')
+print('AVISO: Número máximo de integrantes
+print('do sorteio: 5!)
 print('-' * 20)
 mot = str(input('Digite para qual motivo o sorteio será realizado: ').lower())
 co1 = str(input('Digite a primeira coisa a ser sorteada: ').strip())
