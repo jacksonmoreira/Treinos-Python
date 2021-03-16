@@ -21,7 +21,5 @@ lis1 = lis[randint(0, len(lis))]
 print('O sorteado para {}, foi:'.format(mot))
 print('{}!'.format(lis1))
 print('-' * 20)
-print('''Quantos aos que não foram sorteados
-não desanimem. A próximo sorteio pode ser seu!''')
 print('--ENCERRANDO PROGRAMA--')
 print('=' * 45)
