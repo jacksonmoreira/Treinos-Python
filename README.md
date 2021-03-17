@@ -1,6 +1,6 @@
 # Treinos-Python
 ***
- Neste repositório você encontrará: **exercícios corrigidos** e só :+1
+ Neste repositório você encontrará: **exercícios corrigidos** e só 🤙
 ***
  Conteúdo | Linguagem | Nome
  :---:|:---:|:---:|
