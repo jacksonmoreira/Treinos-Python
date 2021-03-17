@@ -1,3 +1,10 @@
 # Treinos-Python
- Exercícios e treinos afim de aprender mais sobre git e github, mas, pricipalmente Python3
- 
+***
+ Neste repositório você encontrará: **exercícios corrigidos** e só :+1
+***
+ Conteúdo | Linguagem | Nome
+ :---:|:---:|:---:|
+ Exercícios | Python3 | Jackson Moreira
+
+__*Aproveite!*__
+
